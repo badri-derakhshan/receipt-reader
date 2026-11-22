@@ -1,8 +1,8 @@
-# Receipt Reader
+# Receipt Reader and analize 
 
 Upload a receipt photo or PDF and get a categorized, translated item list in the language you choose.
 
-This first version runs on a **mock analyzer**: the upload, validation, grouping, translation, RTL, and export flows are real, while the receipt contents come from a deterministic sample receipt. The analyzer sits behind an interface so real OCR can be added without changing the API or UI.
+This first version runs on a **mock analyzer**: the upload, validation, grouping, translation, RTL, and export flows are real, while the receipt contsents come from a deterministic sample receipt. The analyzer sits behind an interface so real OCR can be added without changing the API or UI.
 
 ## Features
 
